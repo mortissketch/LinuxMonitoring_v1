@@ -2,13 +2,8 @@
 
 Real-time monitoring and research of the system status.
 
-The russian version of the task can be found in the repository.
-
-
 ## Contents
-
-1. [Chapter I](#chapter-i) 
-2. [Chapter II](#chapter-ii) \
+1. [Chapter II](#chapter-ii) \
     2.1. [GoAccess](#goaccess) \
     2.2. [Prometheus](#prometheus) \
     2.3. [Grafana](#grafana)
@@ -25,8 +20,6 @@ The russian version of the task can be found in the repository.
 
 
 ## Chapter I
-
-![linux_monitoringv2.0](misc/images/linux_monitoringv2.0.png)
 
 Planet Earth, USA, California, nowadays.
 
